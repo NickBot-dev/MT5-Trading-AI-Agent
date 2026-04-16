@@ -65,7 +65,7 @@ Trades **GOLD** · **OILCash** · **BTCUSD** · **USDJPY** through MetaTrader 5
 | 🔁 **Self-Reflection** | Reflector agent reviews past trades and writes lessons to session memory |
 | 📡 **Live WebSocket** | Real-time price, position, sentiment, and bot event streaming |
 | 🔑 **Passkey Auth** | WebAuthn-ready (currently JWT/password active on Railway) |
-| 📨 **Telegram Alerts** | Trade open/close, signal, AI analysis, system health (Thai language) |
+| 📨 **Telegram Alerts** | Trade open/close, signal, AI analysis, system health |
 
 ---
 
